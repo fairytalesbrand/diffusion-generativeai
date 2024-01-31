@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="diff-logo.jpg" alt="Diffusion GenerativeAI Logo" width="150">
+  <img src="logo.jpg" alt="Diffusion GenerativeAI Logo" width="150">
 </p>
 
 <h1 align="center"> Diffusion Generative AI </h>
